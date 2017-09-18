@@ -1,0 +1,28 @@
+* {box-sizing: border-box;}
+
+body {
+	background-color: lavender;
+	margin: 40px;
+}
+
+h1	{
+	text-align: center;
+	font-size: 60px;
+}
+
+.cookies {
+	text-align: center;
+}
+
+img {
+	margin: 40px 40px 0 40px;
+}
+
+form {
+	text-align: center;
+}
+
+.oatmeal, .sugar {
+	padding-left: 40px;
+}
+
